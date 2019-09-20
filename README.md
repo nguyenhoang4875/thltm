@@ -1,19 +1,19 @@
 Please read me :))
 
-Exercise 1,2 THLTM in package ex01 include class:
-+) AClient 
-+) AServer
-Class in this package include many method you can change method with Exercise
+Exercise 1,2 THLTM in package ex01 include class:</br>
++) AClient </br>
++) AServer </br>
+Class in this package include many method you can change method with Exercise</br>
 
-Exercise 3 many client with one client in package hfjava include class:
-+) SimpleChatClient
-+) VerySimpleChatServer
+Exercise 3 many client with one client in package hfjava include class:</br>
++) SimpleChatClient</br>
++) VerySimpleChatServer</br>
 
-Exercise one client with one client in package ex03_ta include class:
-+) HClient
-+) HSever
-You can change method with each purpose.
+Exercise one client with one client in package ex03_ta include class:</br>
++) HClient</br>
++) HSever</br>
+You can change method with each purpose.</br>
 
-Thank you for your reading.
+Thank you for your reading.</br>
 
 

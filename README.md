@@ -14,6 +14,10 @@ Exercise one client with one client in package ex03_ta include class:</br>
 +) HSever</br>
 You can change method with each purpose.</br>
 
+Udp in package upd includes class: <br>
++) UdpClient
++) UdpServer
+
 Thank you for your reading.</br>
 
 

@@ -15,9 +15,9 @@ Exercise one client with one client in package ex03_ta include class:</br>
 You can change method with each purpose.</br>
 
 Udp in package upd includes class: <br>
-+) UdpClient
-+) UdpServer
-
++) UdpClient <br>
++) UdpServer <br>
+<hr>
 Thank you for your reading.</br>
 
 
